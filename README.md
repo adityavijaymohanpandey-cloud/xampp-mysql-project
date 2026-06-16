@@ -121,24 +121,32 @@ http://localhost/ECHO-campus-grievance-management-system
 ## Screenshots
 
 ### Home Page
-(Add Screenshot)
 
-### Student Login
-(Add Screenshot)
+![Home Page](screenshots/Home_Page.png)
 
-### Student Dashboard
-(Add Screenshot)
+### Login Page
+
+![Login Page](screenshots/Login_Page.png)
+
+### Registration Page
+
+![Registration](screenshots/Register_Page.png)
+
+### User Dashboard
+
+![Dashboard](screenshots/User_Dashboard.png)
 
 ### Submit Complaint
-(Add Screenshot)
 
-### Complaint Tracking
-(Add Screenshot)
+![Submit Complaint](screenshots/Submit_Complaint.png)
+
+### Track Status
+
+![Track Status](screenshots/Track_Status.png)
 
 ### Admin Dashboard
-(Add Screenshot)
 
----
+![Admin Dashboard](screenshots/Admin_Dashboard.png)
 
 ## Security Features
 
