@@ -91,7 +91,7 @@ C:\xampp\htdocs\
 ### Configure Database
 
 1. Start Apache and MySQL in XAMPP.
-2. Open phpMyAdmin.
+2. Open phpMyAdmin by using http://localhost/phpmyadmin/ or clicking on the Admin in XAMPP MySql section.
 3. Create database:
 
 ```sql
@@ -143,6 +143,14 @@ http://localhost/ECHO-campus-grievance-management-system
 ### Track Status
 
 ![Track Status](Track_Status.png)
+
+### Backend
+
+![Backend](phpMyAdmin.png)
+
+### XAMPP Dashboard
+
+![XAMPP Dashboard](XAMPP_Dashboard.png)
 
 ### Admin Dashboard
 
